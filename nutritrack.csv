@@ -1,0 +1,440 @@
+Age_in_Months,Sex,Weight_kg,Height_cm,Vaccinated,4ps_Beneficiary,BMI,HFA
+6,Female,6.2,65.1,yes,yes,Normal,Normal
+21,Female,8.9,78,no,no,Normal,Normal
+42,Male,12.1,95,yes,yes,Normal,Normal
+58,Female,17.2,102.6,no,no,Normal,Normal
+39,Male,11,88,yes,yes,Normal,Stunted
+55,Male,10.7,100,yes,yes,Severely Wasted,Normal
+25,Male,10.2,85,no,no,Normal,Normal
+50,Male,13.3,96,yes,yes,Normal,Normal
+20,Female,8.8,78,yes,yes,Normal,Normal
+28,Female,9.9,79,yes,no,Normal,Stunted
+40,Female,12,93,no,no,Normal,Normal
+39,Female,13,96,yes,yes,Normal,Normal
+18,Female,12.2,91,yes,yes,Normal,Tall
+46,Male,15.2,93.4,no,no,Normal,Stunted
+13,Female,8.8,77.1,yes,no,Normal,Normal
+30,Female,12,92,yes,no,Normal,Normal
+41,Female,13.2,92.3,yes,yes,Normal,Normal
+20,Male,10.5,80.5,no,yes,Normal,Normal
+2,Female,3.6,70.2,yes,yes,Severely Wasted,Tall
+29,Male,12,82.5,yes,no,Normal,Stunted
+32,Male,11.5,86.7,yes,yes,Normal,Normal
+49,Female,12,95,no,yes,Normal,Normal
+12,Male,6.7,70.4,no,yes,Wasted,Stunted
+18,Male,9,78,yes,no,Normal,Normal
+23,Female,9,78.7,yes,no,Normal,Stunted
+10,Male,10,72,no,yes,Normal,Normal
+37,Male,13.9,101,yes,yes,Normal,Normal
+50,Male,14,101.2,yes,yes,Normal,Normal
+38,Female,12.9,89,no,no,Normal,Normal
+38,Male,12,92.1,no,no,Normal,Normal
+8,Female,7.1,67.5,yes,yes,Normal,Normal
+26,Female,9.5,80.9,yes,yes,Normal,Normal
+45,Male,12.6,91.5,yes,no,Normal,Stunted
+27,Male,10.2,82.5,yes,no,Normal,Stunted
+45,Male,13,93.7,no,no,Normal,Normal
+37,Female,11.6,88.1,yes,yes,Normal,Normal
+0.67,Male,3.4,45.7,no,yes,Normal,Severely Stunted
+34,Female,11.8,86.3,yes,no,Normal,Normal
+16,Female,7.8,72.8,yes,no,Normal,Stunted
+6,Male,7.5,68,yes,yes,Normal,Normal
+22,Female,10.2,83,yes,yes,Normal,Normal
+7,Female,7.2,66.8,no,yes,Normal,Normal
+34,Male,12.2,88,no,no,Normal,Normal
+29,Male,11.5,84.6,yes,no,Normal,Normal
+1,Female,4.4,73,yes,yes,Severely Wasted,Tall
+18,Female,8.5,77,yes,yes,Normal,Normal
+25,Male,14.7,98.2,no,no,Normal,Tall
+17,Male,10.3,72.8,yes,yes,Overweight,Severely Stunted
+25,Male,13.9,92.5,no,yes,Normal,Normal
+20,Male,10,85,no,yes,Normal,Normal
+8,Male,8.9,79.5,no,yes,Wasted,Tall
+36,Female,13,91.3,yes,no,Normal,Normal
+7,Male,9,80,yes,no,Wasted,Tall
+30,Female,9.5,85,no,yes,Wasted,Normal
+38,Male,8.5,73.3,yes,no,Normal,Severely Stunted
+7,Female,7,66.7,no,yes,Normal,Normal
+39,Female,15.8,92.3,yes,no,Overweight,Normal
+54,Female,10.6,99.3,yes,yes,Severely Wasted,Normal
+52,Female,14.7,100.7,yes,yes,Normal,Normal
+55,Male,15.5,101.5,no,yes,Normal,Normal
+18,Female,10.2,75,yes,no,Normal,Normal
+57,Female,16.8,100.8,yes,no,Normal,Normal
+45,Male,12.5,91,no,yes,Normal,Stunted
+50,Female,13.9,100.2,yes,no,Normal,Normal
+6,Female,7.5,65.6,no,yes,Normal,Normal
+17,Male,10.5,76,no,no,Normal,Normal
+21,Male,11,79.5,yes,yes,Normal,Normal
+21,Male,10.5,80,yes,yes,Normal,Normal
+40,Male,20,102,yes,no,Overweight,Normal
+24,Male,10,82,yes,yes,Normal,Normal
+39,Female,11.9,90,yes,no,Normal,Normal
+46,Male,13.5,96,yes,no,Normal,Normal
+35,Female,11.3,88,yes,no,Normal,Normal
+25,Male,10.1,84,no,yes,Normal,Normal
+18,Female,8.1,75,no,yes,Normal,Normal
+31,Female,15.1,96,yes,no,Normal,Normal
+3,Male,6.1,60.2,no,yes,Normal,Normal
+4,Female,6,64,yes,yes,Normal,Normal
+6,Female,6.2,65.1,yes,no,Normal,Normal
+21,Female,8.9,78,no,no,Normal,Normal
+42,Male,12.1,95,yes,no,Normal,Normal
+58,Female,17.2,102.6,no,no,Normal,Normal
+39,Male,11,88,yes,no,Normal,Stunted
+44,Female,16,86,yes,no,Obese,Severely Stunted
+35,Female,14,82,yes,no,Obese,Severely Stunted
+12,Female,9,75,yes,no,Normal,Normal
+15,Female,11,77,yes,no,Normal,Normal
+17,Male,13,78,yes,no,Obese,Normal
+9,Male,9,73,yes,no,Normal,Normal
+8,Female,7,70,yes,no,Normal,Normal
+9,Female,9,70,yes,no,Normal,Normal
+16,Male,10,73,yes,no,Normal,Stunted
+5,Male,6,65,yes,no,Wasted,Normal
+7,Male,7.5,69,yes,no,Normal,Normal
+8,Male,6.3,70,yes,no,Severely Wasted,Normal
+15,Female,11.5,76,yes,no,Overweight,Normal
+19,Female,11.6,78,yes,no,Overweight,Normal
+24,Male,13,78,yes,no,Obese,Stunted
+23,Male,12.3,79,yes,no,Overweight,Stunted
+12,Female,10,66,yes,no,Obese,Severely Stunted
+12,Male,10,69,yes,no,Overweight,Stunted
+11,Female,11,68,yes,no,Obese,Normal
+33,Male,15.3,78,yes,no,Obese,Severely Stunted
+45,Female,17,89,yes,no,Obese,Stunted
+9,Male,8,68,yes,no,Normal,Normal
+6,Male,7,62,yes,no,Normal,Stunted
+5,Male,6,62,yes,no,Normal,Normal
+6,Female,6,63,yes,no,Normal,Normal
+42,Female,14.5,93,yes,no,Normal,Normal
+12,Female,9.5,68,yes,no,Overweight,Stunted
+16,Male,10.5,78,yes,no,Normal,Normal
+18,Female,9.5,68,yes,no,Overweight,Severely Stunted
+16,Male,9.8,67,yes,no,Obese,Severely Stunted
+14,Female,9.7,65,yes,no,Obese,Severely Stunted
+14,Female,10.2,69,yes,no,Obese,Stunted
+12,Female,9.9,69,yes,no,Overweight,Normal
+7,Male,5.3,65,yes,no,Severely Wasted,Normal
+5,Male,6.5,63,yes,no,Normal,Normal
+3,Male,5.3,62,yes,no,Wasted,Normal
+46,Male,19,95,yes,no,Obese,Normal
+23,Female,14.3,69,yes,no,Obese,Severely Stunted
+22,Female,12.3,68,yes,no,Obese,Severely Stunted
+6,Female,6.7,62,yes,no,Normal,Normal
+7,Female,7,68,yes,no,Normal,Normal
+25,Female,12.5,69,yes,no,Obese,Severely Stunted
+6,Male,5.9,62,yes,no,Normal,Stunted
+39,Male,16.5,75,yes,no,Obese,Severely Stunted
+17,Female,11.5,79,yes,no,Normal,Normal
+16,Female,9.5,77,yes,no,Normal,Normal
+28,Female,12.5,87.1,yes,no,Normal,Normal
+19,Male,9.4,80,yes,no,Normal,Normal
+17,Male,8.9,76,yes,yes,Normal,Normal
+13,Male,9.5,72.5,yes,no,Normal,Normal
+32,Male,11.4,91.4,yes,no,Normal,Normal
+20,Female,14.6,87,yes,no,Overweight,Normal
+41,Female,13,91,yes,yes,Normal,Normal
+23,Male,10,81,no,yes,Normal,Normal
+32,Female,12.9,90.4,yes,yes,Normal,Normal
+25,Male,10.2,81,yes,yes,Normal,Stunted
+4,Male,7,60,yes,no,Normal,Normal
+31,Female,12,87,yes,yes,Normal,Normal
+41,Female,14,101,yes,no,Normal,Normal
+14,Male,9,72.8,yes,yes,Normal,Stunted
+22,Female,11,82,no,no,Normal,Normal
+34,Male,13.5,90,yes,yes,Normal,Normal
+9,Male,9.9,76,yes,yes,Normal,Normal
+11,Female,8,70,yes,yes,Normal,Normal
+9,Female,9.5,67,no,no,Overweight,Normal
+7,Female,2.7,59,yes,yes,Severely Wasted,Severely Stunted
+37,Female,14.5,91,yes,no,Normal,Normal
+38,Female,13.5,92.5,no,yes,Normal,Normal
+46,Female,14,99,yes,yes,Normal,Normal
+45,Male,18,100,yes,no,Normal,Normal
+50,Female,14.1,100,yes,yes,Normal,Normal
+52,Male,20,105,no,yes,Normal,Normal
+41,Female,14.7,95,yes,no,Normal,Normal
+46,Female,12.6,90.4,yes,no,Normal,Stunted
+50,Female,19,102,no,no,Normal,Normal
+51,Male,14,97.1,yes,no,Normal,Normal
+31,Male,12,87,no,yes,Normal,Normal
+37,Male,15,92.2,yes,no,Normal,Normal
+29,Male,13,85,no,no,Normal,Normal
+29,Female,11,84.2,yes,yes,Normal,Normal
+42,Male,8,82.9,yes,yes,Severely Wasted,Severely Stunted
+57,Female,18,110,yes,no,Normal,Normal
+37,Male,13.6,98.8,yes,no,Normal,Normal
+57,Female,14.9,106,yes,yes,Normal,Normal
+57,Female,15,102,yes,no,Normal,Normal
+53,Male,21,107,yes,no,Overweight,Normal
+53,Female,20,105,yes,yes,Normal,Normal
+53,Female,13.5,100,no,yes,Normal,Normal
+52,Female,15.5,100,yes,no,Normal,Normal
+31,Male,14,98,yes,yes,Normal,Normal
+50,Male,17.4,99.4,yes,yes,Normal,Normal
+47,Female,13.5,97.1,yes,no,Normal,Normal
+21,Male,10.5,82.8,no,no,Normal,Normal
+23.55,Female,14.1,96.5,no,yes,Normal,Tall
+17.94,Female,17.7,89.7,yes,no,Obese,Tall
+33.99,Female,18.9,107.9,no,yes,Normal,Tall
+37.09,Female,18.5,108.2,yes,no,Normal,Tall
+3.99,Female,6.7,67.1,yes,no,Normal,Tall
+38.01,Male,18.9,113,yes,no,Normal,Tall
+37.28,Female,17.8,111.2,yes,no,Normal,Tall
+23.2,Male,20.2,96.7,yes,yes,Obese,Tall
+39.96,Male,16.4,112.8,yes,no,Wasted,Tall
+22.48,Male,14,96.7,no,yes,Normal,Tall
+42.75,Male,19.5,115.4,no,no,Normal,Tall
+52.29,Female,34.6,120.3,yes,yes,Obese,Tall
+53.14,Female,33.3,121.9,yes,yes,Obese,Tall
+12.1,Male,16.8,84.2,yes,no,Obese,Tall
+31.93,Male,10.5,94.3,yes,no,Severely Wasted,Normal
+40.37,Female,10.4,96,no,no,Severely Wasted,Normal
+34.01,Female,11,96.5,yes,no,Severely Wasted,Normal
+53.26,Male,10.5,96.5,yes,yes,Severely Wasted,Stunted
+36.36,Male,10.8,94.4,yes,yes,Severely Wasted,Normal
+29.89,Female,10.4,94.9,yes,no,Severely Wasted,Normal
+10.85,Female,6.6,74.3,no,yes,Severely Wasted,Normal
+38.9,Female,10.2,93.5,yes,no,Severely Wasted,Normal
+28.67,Female,8.7,88.1,yes,yes,Severely Wasted,Normal
+21.22,Female,6,72.3,yes,no,Severely Wasted,Severely Stunted
+11.93,Female,6.6,73.7,yes,yes,Severely Wasted,Normal
+6.63,Female,5.2,67.3,no,no,Severely Wasted,Normal
+46.83,Female,8.6,89.8,yes,yes,Severely Wasted,Stunted
+57.13,Male,11.8,102.1,yes,no,Severely Wasted,Normal
+14.26,Female,7.1,73.3,no,yes,Wasted,Normal
+11.94,Female,6.9,72.1,yes,no,Wasted,Normal
+58.08,Male,15.6,111.4,yes,yes,Wasted,Normal
+55.7,Female,15.1,112.7,no,yes,Wasted,Normal
+7.69,Female,6.8,70.4,no,no,Wasted,Normal
+7,Male,7.1,70.8,yes,yes,Wasted,Normal
+29.32,Male,8.4,79.3,yes,yes,Wasted,Severely Stunted
+21.8,Male,10.5,89.4,no,yes,Wasted,Normal
+17.48,Male,9,80.4,yes,no,Wasted,Normal
+36.51,Female,9.2,84.8,yes,yes,Wasted,Stunted
+6.57,Male,5,58.9,yes,yes,Wasted,Severely Stunted
+40.87,Male,10.6,89.8,yes,no,Wasted,Stunted
+30.32,Female,11.5,95.9,yes,yes,Wasted,Normal
+45.5,Female,11.3,95.8,yes,no,Wasted,Normal
+17.4,Female,16,90.9,yes,yes,Overweight,Tall
+39.89,Female,17.3,94.1,no,no,Overweight,Normal
+13.51,Male,11.5,74.3,yes,no,Overweight,Normal
+25.13,Female,16.1,90.6,yes,no,Overweight,Normal
+17.66,Female,10.5,72,yes,yes,Overweight,Stunted
+5.38,Male,8.8,64.1,yes,no,Overweight,Normal
+43.52,Male,20.6,103.5,yes,no,Overweight,Normal
+18.48,Male,12.3,78.4,yes,no,Overweight,Normal
+55,Male,13,103,yes,no,Wasted,Normal
+63,Male,18,106,yes,no,Normal,Normal
+56,Male,14,99,yes,no,Normal,Normal
+66,Female,15,107,yes,no,Normal,Normal
+63,Female,14,104,yes,no,Wasted,Normal
+64,Female,18,105,yes,no,Normal,Normal
+56,Female,16,103,yes,no,Normal,Normal
+79,Female,12,99,yes,no,Wasted,Severely Stunted
+57,Female,12,100,yes,no,Wasted,Normal
+67,Male,14,99,yes,no,Wasted,Severely Stunted
+77,Male,31,125,yes,yes,Overweight,Normal
+70,Male,26,114,yes,no,Normal,Normal
+69,Male,18,108,yes,yes,Normal,Normal
+65,Male,19,112,yes,no,Normal,Normal
+73,Male,28,117,yes,no,Overweight,Normal
+77,Female,21,114,yes,no,Normal,Normal
+79,Female,21,108,yes,no,Normal,Normal
+79,Female,18,106,yes,no,Normal,Stunted
+79,Female,24,113,yes,no,Normal,Normal
+71,Female,24,110,yes,no,Normal,Normal
+71,Female,19,107,yes,no,Normal,Normal
+78,Female,22,116,yes,no,Normal,Normal
+66,Female,22,112,yes,no,Normal,Normal
+76,Female,19,108,yes,no,Normal,Normal
+71,Female,22,109,yes,no,Normal,Normal
+88,Male,29,125,yes,no,Normal,Normal
+83,Male,16,114,yes,yes,Wasted,Normal
+90,Male,26,125,yes,no,Normal,Normal
+84,Male,21,123,yes,yes,Normal,Normal
+80,Male,19,113,yes,yes,Normal,Normal
+77,Male,23,127,yes,yes,Normal,Normal
+84,Female,17,114,yes,no,Normal,Normal
+90,Female,25,122,yes,yes,Normal,Normal
+82,Female,25,120,yes,yes,Normal,Normal
+86,Female,21,111,yes,no,Normal,Normal
+81,Female,16,112,yes,no,Normal,Normal
+81,Female,17,111,yes,no,Normal,Normal
+94,Male,20,121,yes,no,Normal,Normal
+94,Male,20,120,yes,no,Normal,Normal
+93,Male,24,132,yes,no,Normal,Normal
+92,Male,21,120,yes,no,Normal,Normal
+94,Male,22,128,yes,no,Normal,Normal
+94,Male,22,121,yes,no,Normal,Normal
+99,Male,18,118,yes,no,Wasted,Normal
+123,Male,21,122,yes,no,Normal,Stunted
+101,Female,21,121,yes,no,Normal,Normal
+93,Female,20,122,yes,no,Normal,Normal
+99,Female,20,118,yes,yes,Normal,Normal
+99,Female,19,115,yes,no,Normal,Stunted
+103,Male,30,123,yes,no,Normal,Normal
+116,Male,28,129,yes,yes,Normal,Normal
+103,Male,29,128,yes,no,Normal,Normal
+104,Male,30,126,yes,no,Normal,Normal
+102,Male,20,115,yes,no,Normal,Stunted
+108,Male,32,129,yes,yes,Normal,Normal
+111,Male,21,117,yes,no,Normal,Stunted
+104,Male,20,123,yes,no,Wasted,Normal
+103,Male,29,129,yes,no,Normal,Normal
+109,Male,22,116,yes,no,Normal,Stunted
+111,Male,19,115,yes,no,Normal,Severely Stunted
+104,Female,21,115,yes,yes,Normal,Stunted
+116,Female,27,124,yes,yes,Normal,Normal
+110,Female,28,121,yes,yes,Normal,Stunted
+106,Female,20,117,yes,yes,Normal,Stunted
+116,Female,22,122,yes,yes,Normal,Stunted
+106,Female,21,120,yes,yes,Normal,Normal
+103,Female,20,118,yes,no,Normal,Normal
+111,Female,31,129,yes,yes,Normal,Normal
+114,Female,30,130,yes,no,Normal,Normal
+106,Female,24,121,yes,yes,Normal,Normal
+105,Female,28,134,yes,yes,Normal,Normal
+111,Female,29,123,yes,yes,Normal,Normal
+105,Female,28,121,yes,no,Normal,Normal
+103,Female,42,142,yes,yes,Normal,Tall
+114,Female,24,121,yes,yes,Normal,Stunted
+118,Male,26,126,yes,yes,Normal,Normal
+118,Male,35,138,yes,no,Normal,Normal
+132,Male,31,138,yes,no,Normal,Normal
+134,Male,30,127,yes,yes,Normal,Stunted
+119,Male,28,129,yes,no,Normal,Normal
+119,Male,22,130,yes,no,Wasted,Normal
+119,Male,27,139,yes,yes,Normal,Normal
+118,Male,31,135,yes,no,Normal,Normal
+118,Male,26,130,yes,yes,Normal,Normal
+127,Male,27,136,yes,no,Normal,Normal
+130,Male,24,126,yes,yes,Normal,Stunted
+130,Male,25,126,yes,no,Normal,Stunted
+117,Male,29,120,yes,yes,Normal,Stunted
+116,Male,25,128,yes,no,Normal,Normal
+126,Male,25,133,yes,no,Normal,Normal
+124,Male,24,131,yes,no,Normal,Normal
+116,Female,23,126,yes,no,Normal,Normal
+123,Female,34,139,yes,yes,Normal,Normal
+124,Female,23,127,yes,yes,Normal,Stunted
+127,Female,26,137,yes,yes,Normal,Normal
+117,Female,21,126,yes,yes,Wasted,Normal
+123,Female,40,147,yes,no,Normal,Normal
+127,Female,26,131,yes,no,Normal,Normal
+116,Female,33,139,yes,no,Normal,Normal
+125,Female,24,125,yes,no,Normal,Stunted
+125,Female,25,133,yes,no,Normal,Normal
+126,Female,21,125,yes,no,Wasted,Stunted
+117,Female,32,137,yes,no,Normal,Normal
+117,Female,31,137,yes,no,Normal,Normal
+113,Female,32,136,yes,no,Normal,Normal
+154,Female,31,125,yes,no,Normal,Severely Stunted
+116,Female,24,134,yes,no,Normal,Normal
+118,Female,21,124,yes,yes,Normal,Stunted
+118,Female,21,124,yes,yes,Normal,Stunted
+126,Male,31,133,yes,no,Normal,Normal
+133,Male,30,142,yes,yes,Normal,Normal
+132,Male,30,131,yes,no,Normal,Normal
+129,Male,32,135,yes,yes,Normal,Normal
+132,Male,27,132,yes,no,Normal,Normal
+128,Male,45,136,yes,no,Overweight,Normal
+132,Male,27,130,yes,no,Normal,Normal
+152,Male,42,155,yes,yes,Normal,Normal
+138,Male,31,138,yes,no,Normal,Normal
+139,Male,24,125,yes,yes,Normal,Severely Stunted
+139,Male,62,159,yes,no,Overweight,Normal
+130,Female,56,147,yes,no,Overweight,Normal
+133,Female,25,135,yes,yes,Wasted,Normal
+136,Female,46,149,yes,no,Normal,Normal
+127,Female,35,145,yes,no,Normal,Normal
+140,Female,47,143,yes,no,Normal,Normal
+177,Female,41,143,yes,no,Normal,Stunted
+134,Female,36,154,yes,yes,Normal,Normal
+130,Female,31,139,yes,no,Normal,Normal
+137,Female,35,150,yes,no,Normal,Normal
+140,Female,46,154,yes,no,Normal,Normal
+136,Female,37,145,yes,yes,Normal,Normal
+135,Female,25,128,yes,yes,Normal,Stunted
+160,Female,28,140,yes,no,Wasted,Stunted
+148,Male,33,123,yes,yes,Normal,Severely Stunted
+144,Male,60,170,yes,no,Normal,Tall
+149,Male,31,136,yes,yes,Normal,Stunted
+160,Male,34,148,yes,no,Normal,Normal
+147,Male,31,134,yes,no,Normal,Stunted
+148,Male,54,152,yes,no,Normal,Normal
+142,Male,32,122,yes,no,Normal,Severely Stunted
+146,Male,31,134,yes,no,Normal,Stunted
+146,Male,35,142,yes,yes,Normal,Normal
+171,Male,37,145,yes,no,Normal,Stunted
+144,Male,36,144,yes,yes,Normal,Normal
+150,Male,38,132,yes,yes,Normal,Stunted
+145,Male,40,132,yes,no,Normal,Stunted
+148,Female,24,117,yes,yes,Normal,Severely Stunted
+145,Female,36,130,yes,no,Normal,Severely Stunted
+150,Female,37,127,yes,yes,Normal,Severely Stunted
+149,Female,47,162,yes,yes,Normal,Normal
+144,Female,25,124,yes,yes,Normal,Severely Stunted
+147,Female,32,130,yes,no,Normal,Severely Stunted
+158,Female,35,129,yes,no,Normal,Severely Stunted
+141,Female,28,122,yes,yes,Normal,Severely Stunted
+141,Female,30,119,yes,yes,Normal,Severely Stunted
+148,Female,37,132,yes,yes,Normal,Severely Stunted
+144,Female,26,118,yes,no,Normal,Severely Stunted
+143,Female,35,133,yes,no,Normal,Stunted
+168,Male,40,148,yes,yes,Normal,Normal
+161,Male,39,140,yes,yes,Normal,Stunted
+156,Male,39,145,yes,yes,Normal,Normal
+160,Male,40,148,yes,no,Normal,Normal
+156,Male,36,134,yes,no,Normal,Stunted
+166,Male,45,156,yes,no,Normal,Normal
+161,Male,45,142,yes,yes,Normal,Stunted
+160,Male,48,147,yes,yes,Normal,Normal
+154,Female,43,146,yes,no,Normal,Normal
+154,Female,42,150,yes,yes,Normal,Normal
+160,Female,40,139,yes,yes,Normal,Stunted
+154,Female,34,135,yes,yes,Normal,Stunted
+153,Female,49,142,yes,yes,Normal,Normal
+160,Female,46,148,yes,yes,Normal,Normal
+161,Female,39,141,yes,yes,Normal,Stunted
+153,Female,35,142,yes,no,Normal,Normal
+159,Female,36,150,yes,yes,Normal,Normal
+158,Female,35,145,yes,yes,Normal,Normal
+162,Female,47,147,yes,no,Normal,Normal
+159,Female,37,142,yes,no,Normal,Stunted
+171,Female,39,140,yes,no,Normal,Stunted
+184,Male,36,144,yes,no,Normal,Severely Stunted
+176,Male,35,149,yes,yes,Wasted,Stunted
+163,Male,35,144,yes,no,Normal,Stunted
+178,Male,50,164,yes,no,Normal,Normal
+172,Male,50,156,yes,no,Normal,Normal
+171,Male,41,158,yes,yes,Normal,Normal
+188,Male,44,155,yes,yes,Normal,Stunted
+178,Male,42,152,yes,yes,Normal,Stunted
+178,Male,38,150,yes,no,Normal,Stunted
+172,Female,43,161,yes,no,Normal,Normal
+179,Female,53,153,yes,yes,Normal,Normal
+174,Female,44,149,yes,yes,Normal,Normal
+180,Female,39,147,yes,yes,Normal,Stunted
+176,Female,40,150,yes,yes,Normal,Normal
+168,Female,45,146,yes,yes,Normal,Normal
+168,Female,41,157,yes,yes,Normal,Normal
+173,Female,32,142,yes,yes,Normal,Stunted
+179,Male,40,145,yes,yes,Normal,Severely Stunted
+184,Male,39,149,yes,yes,Normal,Stunted
+193,Male,42,148,yes,yes,Normal,Severely Stunted
+186,Male,45,151,yes,yes,Normal,Stunted
+195,Male,51,162,yes,yes,Normal,Normal
+181,Male,37,145,yes,yes,Normal,Severely Stunted
+192,Male,40,155,yes,yes,Normal,Stunted
+194,Male,45,151,yes,yes,Normal,Stunted
+203,Male,52,156,yes,no,Normal,Stunted
+179,Male,42,148,yes,no,Normal,Stunted
+196,Female,33,143,yes,yes,Normal,Stunted
+181,Female,47,148,yes,yes,Normal,Normal
+184,Female,43,159,yes,no,Normal,Normal
+180,Female,45,162,yes,no,Normal,Normal
+179,Female,41,147,yes,yes,Normal,Stunted
+183,Female,40,148,yes,no,Normal,Stunted
+239,Female,40,147,yes,no,Normal,Stunted
